@@ -8,7 +8,6 @@ import { faPencil, faTrashAlt } from "@fortawesome/free-solid-svg-icons";
 import { useFetchWithAccessToken } from "@/functions/useFetchWithAccessToken";
 import { useState } from "react";
 import CustomDeleteModal from "./Employee/CustomDeleteModal";
-import Router, { useRouter } from "next/router";
 import Link from "next/link";
 
 interface Datas {
