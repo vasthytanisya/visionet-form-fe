@@ -45,7 +45,7 @@
     "@hookform/error-message": "2.0.1",
     "@hookform/resolvers": "3.0.1",
     "antd": "5.4.0",
-    "dayjs": "1.11.7",
+    "dayjs": "1.11.13",
     "http-proxy": "1.18.1",
     "jotai": "2.0.3",
     "next": "13.3.0",
