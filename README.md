@@ -1,48 +1,4 @@
-# Accelist Next.js Starter
-
-> Next.js project starter template for PT. Accelist Lentera Indonesia
-
-## Features
-
-- Pure Next.js: Zero framework customization
-
-- TypeScript + ESLint configured: type-check and lint as you type!
-
-- Visual Studio Code breakpoint and debugging configured
-
-- Responsive dashboard with sidebar template
-
-- `Page` Component Type: Supports variable layout
-
-- The Twelve-Factor App principled: Multi-Stage Docker build
-
-- `AppSettings` API: Supports Runtime Environment Variables for Kubernetes deployment
-
-- Plug-and-play OpenID Connect integrations to standard providers (Such as Keycloak, IdentityServer, OpenIddict, FusionAuth, etc.)
-
-- API Gateway for proxying HTTP requests to back-end web API bypassing CORS
-
-- Automatic progress bar during page navigation
-
-- Convenient Fetch API wrapper and SWR Fetcher implementation
-
-- Enabled container builds on GitHub Action
-
-- Batteries included:
-
-    - Enterprise-level React components by [Ant Design](https://ant.design/components/overview/)
-
-    - Thousands of [utility classes](https://tailwind.build/classes) powered by Tailwind CSS with `className` IntelliSense in React components
-
-    - Simple atomic React state management using [Jotai](https://jotai.org/)
-    
-    - Thousands of icons by [FontAwesome 6](https://fontawesome.com/search?o=r&m=free)
-
-    - TypeScript object schema validation with [Zod](https://zod.dev/)
-
-    - Simple form validation with [React Hook Form](https://react-hook-form.com/get-started), designed to be [integrated with Ant Design](https://react-hook-form.com/get-started#IntegratingControlledInputs) and [Zod](https://react-hook-form.com/get-started#SchemaValidation)
-
-- Provide sane defaults for the most common security headers
+# Using Accelist Next.js Starter
 
 ## Getting Started
 
