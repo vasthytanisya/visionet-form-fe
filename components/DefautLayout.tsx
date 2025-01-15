@@ -33,6 +33,14 @@ const DefaultLayout: React.FC<{
             onClick: () => router.push('/')
         });
 
+        menu.push({
+            key: '/assignment',
+            label: 'Assignment',
+            icon: <FontAwesomeIcon icon={faHome}></FontAwesomeIcon>,
+            onClick: () => router.push('/assignment')
+        });
+
+
         // menu.push(
         //     {
         //         key: '#menu-1',

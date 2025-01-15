@@ -8,4 +8,6 @@ export const BackendApiUrl = {
     updateEmployee: baseUrl + '/api/v1/Employees',
     deleteEmployee: baseUrl + '/api/v1/Employees',
     skill: baseUrl + '/api/v1/Employees/skill',
+
+    createTransaction: baseUrl + '/api/v1/Transactions',
 }
